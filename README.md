@@ -4,7 +4,7 @@
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=rk-poddar&icon=5&color=0)](https://visitcount.itsvg.in)
  🌱 I’m currently learning **Java**<br> 💬 Ask me about **Python, Java, HTML, CSS, MySQL**<br> 📫 How to reach me **contactat.rahulkumar@gmail.com**<br> ⚡ **Develop your skills to make the right decisions..!** <br/>
  
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> <br/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" /> <br/> </br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nFjn95H5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rk-poddar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@techisource) 
