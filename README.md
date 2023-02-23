@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1> <br/>
 
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=rk-poddar&icon=5&color=0)](https://visitcount.itsvg.in)
-- 🌱 I’m currently learning **Java**<br>- 💬 Ask me about **Python, Java, HTML, CSS, MySQL**<br>- 📫 How to reach me **contactat.rahulkumar@gmail.com**<br>- ⚡ **Develop your skills to make the right decisions..!**
+ 🌱 I’m currently learning **Java**<br> 💬 Ask me about **Python, Java, HTML, CSS, MySQL**<br> 📫 How to reach me **contactat.rahulkumar@gmail.com**<br> ⚡ **Develop your skills to make the right decisions..!**
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
 ## 🌐 Socials:
