@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/rk-poddar/Images/blob/main/Banner_Img.gif)
+![MasterHead](https://raw.githubusercontent.com/rk-poddar/Images/main/Banner_Img.gif?token=GHSAT0AAAAAAB6K6XUEGUSJ7KQD22LSXZL6Y7YPJZQ)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1> <br/>
 
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=rk-poddar&icon=5&color=0)](https://visitcount.itsvg.in)
