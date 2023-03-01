@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/rk-poddar/Images/blob/main/Banner_Img.gif)
-<h1 align="center">Hi 👋, I'm Rahul Kumar</h1> <br/>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Rahul Kumar</h1> <br/>
 
 # 💫 About Me: [![](https://visitcount.itsvg.in/api?id=rk-poddar&icon=5&color=0)](https://visitcount.itsvg.in)
  🌱 I’m currently learning **Java**<br> 💬 Ask me about **Python, Java, HTML, CSS, MySQL**<br> 📫 How to reach me **contactat.rahulkumar@gmail.com**<br> ⚡ **Develop your skills to make the right decisions..!** <br/>
